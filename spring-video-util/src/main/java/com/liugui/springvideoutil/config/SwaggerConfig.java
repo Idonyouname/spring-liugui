@@ -41,7 +41,7 @@ public class SwaggerConfig {
     private ApiInfo apiInfo() {
         return new ApiInfoBuilder()
                 .title("springcloud利用swagger构建api文档")
-                .description("安道录播课堂&黑板教师端")
+                .description("测试")
                 .version("2.9.2")
                 .build();
     }
